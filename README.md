@@ -9,3 +9,9 @@ Links to the documentation can be found on [identity-manager-developer](https://
 ### [rbpm_soap_role.sh](bash/rbpm_soap_role.sh)
 
 Shell script with a set of bash functions that build the SOAP requests to perform common tasks using RBPM 4.5 role SOAP endpoints. Written by Fernando Freitas and initially published on [NetIQ Cool Solutions](https://community.microfocus.com/cyberres/idm/w/identity_mgr_tips/2314/bash-functions-to-perform-soap-calls-to-rbpm).
+
+## Python
+
+### [idmprovSoapSample.py](python/idmprovSoapSample.py)
+
+Python script demonstrating the use of [Zeep](https://docs.python-zeep.org/en/master/#) SOAP client module.
