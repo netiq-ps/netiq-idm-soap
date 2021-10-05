@@ -10,6 +10,12 @@ Links to the documentation can be found on [identity-manager-developer](https://
 
 Shell script with a set of bash functions that build the SOAP requests to perform common tasks using RBPM 4.5 role SOAP endpoints. Written by Fernando Freitas and initially published on [NetIQ Cool Solutions](https://community.microfocus.com/cyberres/idm/w/identity_mgr_tips/2314/bash-functions-to-perform-soap-calls-to-rbpm).
 
+## Perl
+
+### [idmprov-assign-role.pl](perl/idmprov-assign-role.pl)
+
+Perl script to assign users to roles via SOAP based on a CSV file.
+
 ## Python
 
 ### [idmprovSoapSample.py](python/idmprovSoapSample.py)
